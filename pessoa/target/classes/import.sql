@@ -1,0 +1,1 @@
+INSERT INTO tb_pessoa( DATA_NASCIMENTO,nome) VALUES ('1996-04-05', 'Bruno Rodrigues');
